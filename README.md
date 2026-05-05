@@ -12,10 +12,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-umer-shehzad/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://umershehzadportfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umer.shehzad2004@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhmmadUmerShehzad)
 
 </div>
 
@@ -36,7 +36,7 @@ const umer = {
   currentlyBuilding: "MERN apps + Unity AR experiences + NLP pipelines",
   lookingFor: "Collaborations on Web, Game, and AI/ML projects",
   funFact: "I co-founded a campus E-Gaming Society 🎮",
-  contact: "umer.shehzad2004@gmail.com | 03331426745"
+  contact: "umer.shehzad2004@gmail.com "
 };
 ```
 
@@ -158,7 +158,7 @@ const umer = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UmerShehzad&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b" width="80%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhmmadUmerShehzad&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b" width="80%" />
 
 </div>
 
@@ -174,36 +174,6 @@ const umer = {
 
 ---
 
-## 🦕 Chrome Dino — Play While You're Here!
-
-## 🦕 Dino Break — Play & Reset
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:302b63&height=100&section=header&text=T-Rex%20Runner&fontSize=28&fontColor=a78bfa" />
-
-<br/>
-
-<img src="https://media.tenor.com/WX_LDjYUrMsAAAAi/dino-game.gif" width="120"/>
-
-<br/><br/>
-
-<a href="https://chromedino.com/" target="_blank">
-  <img src="https://img.shields.io/badge/🦕_Play_Dino_Game-Click_to_Play-a78bfa?style=for-the-badge&labelColor=0d1117"/>
-</a>
-
-<a href="https://codepen.io/MysticReborn/pen/rygqpJ" target="_blank">
-  <img src="https://img.shields.io/badge/🎮_Open_Source_Clone-CodePen-47CF73?style=for-the-badge&logo=codepen&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-✨ *Quick break. Clear your mind. Come back stronger.*
-
-</div>
-
----
-
 ## 🌌 Shooting Stars
 
 <div align="center">
@@ -214,18 +184,9 @@ const umer = {
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UmerShehzad&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhmmadUmerShehzad&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
----
-
-## 🎖️ Activities
-
-- 🎮 **Co-Founder & Event Secretary** — PIEAS E-Gaming Society  
-  Promoted esports culture on campus & organized competitive gaming events
-
-- 🌍 **Languages**: English 🇬🇧 · Urdu 🇵🇰 · Deutsch A1 🇩🇪
-
 ---
 
 ## 💬 Dev Quote of the Day
@@ -244,6 +205,6 @@ const umer = {
 
 *"Ship it. Iterate. Repeat."* — Umer
 
-[![Profile Views](https://komarev.com/ghpvc/?username=UmerShehzad&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/UmerShehzad)
+[![Profile Views](https://komarev.com/ghpvc/?username=MuhmmadUmerShehzad&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/MuhmmadUmerShehzad)
 
 </div>
