@@ -140,17 +140,17 @@ const umer = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmerShehzad&theme=tokyonight" width="98%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MuhmmadUmerShehzad&theme=tokyonight" width="98%" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UmerShehzad&theme=tokyonight" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UmerShehzad&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MuhmmadUmerShehzad&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MuhmmadUmerShehzad&theme=tokyonight" width="48%" />
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UmerShehzad&theme=tokyonight" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UmerShehzad&theme=tokyonight&utcOffset=5" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MuhmmadUmerShehzad&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MuhmmadUmerShehzad&theme=tokyonight&utcOffset=5" width="48%" />
 
 </div>
 
@@ -208,27 +208,15 @@ const umer = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=3&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header&text=%E2%9C%A6%20Cosmic%20Commits%20%E2%9C%A6&fontSize=24&fontColor=a78bfa&animation=fadeIn" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=%E2%9C%A8+Every+star+you+see+is+a+commit...;%F0%9F%92%AB+Every+line+of+code+leaves+a+trail...;%F0%9F%9A%80+Building+in+the+dark+like+a+true+dev..." />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UmerShehzad&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
-
-<div align="center">
-
-```
-     *           .                   .          *
-          .           *        .
-  *                         .               *
-       .     *    .                  .
-                       .    *               .
-    .       *                   .      *
-          .        .       *         .
-  *              .     *        .          *
-```
-
-*The stars above represent every bug fixed at 3 AM 🌠*
-
-</div>
-
 ---
 
 ## 🎖️ Activities
