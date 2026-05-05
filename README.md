@@ -136,18 +136,29 @@ const umer = {
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UmerShehzad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmerShehzad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UmerShehzad&theme=tokyonight" width="98%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UmerShehzad&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UmerShehzad&theme=tokyonight" width="48%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=UmerShehzad&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UmerShehzad&theme=tokyonight&utcOffset=5" width="48%" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UmerShehzad&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=UmerShehzad&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b" width="80%" />
 
 </div>
 
@@ -165,11 +176,29 @@ const umer = {
 
 ## 🦕 Chrome Dino — Play While You're Here!
 
+## 🦕 Dino Break — Play & Reset
+
 <div align="center">
 
-[![Play Dino](https://img.shields.io/badge/🦕_Play_Chrome_Dino-000000?style=for-the-badge&logoColor=white)](https://chromedino.com/)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,100:302b63&height=100&section=header&text=T-Rex%20Runner&fontSize=28&fontColor=a78bfa" />
 
-> *Can't embed a game in Markdown — but click above to play! Or check out the [interactive version of this README](https://github.com) in my profile repo.*
+<br/>
+
+<img src="https://media.tenor.com/WX_LDjYUrMsAAAAi/dino-game.gif" width="120"/>
+
+<br/><br/>
+
+<a href="https://chromedino.com/" target="_blank">
+  <img src="https://img.shields.io/badge/🦕_Play_Dino_Game-Click_to_Play-a78bfa?style=for-the-badge&labelColor=0d1117"/>
+</a>
+
+<a href="https://codepen.io/MysticReborn/pen/rygqpJ" target="_blank">
+  <img src="https://img.shields.io/badge/🎮_Open_Source_Clone-CodePen-47CF73?style=for-the-badge&logo=codepen&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+✨ *Quick break. Clear your mind. Come back stronger.*
 
 </div>
 
