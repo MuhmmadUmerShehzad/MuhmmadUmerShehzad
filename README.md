@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+(MERN+%2B+ASP.NET);Unity+3D+%2F+AR+Game+Engineer;AI+%2F+ML+%2F+NLP+Enthusiast;Building+production-grade+apps+daily...;Open+to+collabs+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer+(React+%2B+ASP.NET);Unity+3D+%2F+AR+Game+Engineer;AI+%2F+ML+%2F+NLP+Enthusiast;Rebuilt+GreenAI%27s+production+platform+solo;Open+to+collabs+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -31,14 +31,21 @@
 const umer = {
   name: "Muhammad Umer Shehzad",
   role: "Full-Stack Engineer · Game Dev · AI/ML",
-  education: "B.S. CIS @ PIEAS, Islamabad (2023–2027)",
+  education: "B.S. CIS @ PIEAS, Islamabad (2023–2027) — CGPA 3.76/4.00",
   languages: ["JavaScript", "TypeScript", "C#", "Python", "SQL"],
-  currentlyBuilding: "MERN apps + Unity AR experiences + NLP pipelines",
+  currentlyBuilding: "Rebuilt GreenAI's production platform (greenai.org.pk) solo — full-stack redesign + new ASP.NET Core backend",
   lookingFor: "Collaborations on Web, Game, and AI/ML projects",
   funFact: "I co-founded a campus E-Gaming Society 🎮",
-  contact: "umer.shehzad2004@gmail.com "
+  contact: "umer.shehzad2004@gmail.com"
 };
 ```
+
+---
+
+## 💼 Featured Work
+
+**[GreenAI](https://greenai.org.pk)** — Full-Stack Software Engineering Intern (Jun 2026 – Aug 2026)
+Rebuilt GreenAI's public production website end-to-end: a new ASP.NET Core Web API backend wired to SQL Server, a four-container Docker deployment secured behind an outbound-only Cloudflare Tunnel, and a full frontend redesign on Next.js/TypeScript. Live at [greenai.org.pk](https://greenai.org.pk).
 
 ---
 
@@ -88,29 +95,31 @@ const umer = {
 
 ## 🚀 Featured Projects
 
+> Repo links below point to my GitHub profile — swap in each project's actual repo URL once you have them handy.
+
 ### 🌐 Web Development
 
 | 🔗 Project | 🛠️ Stack | 📝 Description |
 |:-----------|:---------|:---------------|
-| [**Quiz Management System**](https://github.com) | ASP.NET Core · Blazor · SQL Server · C# | RBAC platform with JWT auth, dynamic quiz creation & real-time scoring APIs |
-| [**Furniture Order System**](https://github.com) | ASP.NET · VB.Net · SQL Server | Full-stack order management with Minimal API, EF Core & Blazor frontend |
-| [**Password Manager**](https://github.com) | React · Vite · MongoDB · Node.js | Secure MERN credential vault with encrypted storage & real-time form validation |
+| [**Quiz Management System**](https://github.com/MuhmmadUmerShehzad) | ASP.NET Core · Blazor · SQL Server · C# | RBAC- and JWT-secured platform with dynamic quiz creation & real-time scoring APIs |
+| [**Furniture Order System**](https://github.com/MuhmmadUmerShehzad) | ASP.NET · VB.Net · SQL Server | Full-stack order management with Minimal API, EF Core & Blazor frontend |
+| [**Password Manager**](https://github.com/MuhmmadUmerShehzad) | React · Vite · MongoDB · Node.js | Secure MERN credential vault with encrypted storage & real-time form validation |
 
 ### 🎮 Game Development
 
 | 🔗 Project | 🛠️ Stack | 📝 Description |
 |:-----------|:---------|:---------------|
-| [**Unity AR 3D Model Generator**](https://github.com) | Unity · AR Foundation · C# | AR app with real-time 3D model rendering via plane detection & modular asset loading |
-| [**Arcade Racing Game**](https://github.com) | Unity 3D · C# · Cinemachine | Advanced vehicle physics, Cinemachine rigs & Singleton race state management at 60fps |
-| [**Kitchen Chaos**](https://github.com) | Unity 3D · C# · Animation | Multi-station cooking sim with order queues, timer scoring & full audio/animation pipeline |
+| [**Unity AR 3D Model Generator**](https://github.com/MuhmmadUmerShehzad) | Unity · AR Foundation · C# | AR app with real-time 3D model rendering via plane detection & modular asset loading |
+| [**Arcade Racing Game**](https://github.com/MuhmmadUmerShehzad) | Unity 3D · C# · Cinemachine | Advanced vehicle physics, Cinemachine rigs & Singleton race state management at 60fps |
+| [**Kitchen Chaos**](https://github.com/MuhmmadUmerShehzad) | Unity 3D · C# · Animation | Multi-station cooking sim with order queues, timer scoring & full audio/animation pipeline |
 
 ### 🤖 AI & NLP
 
 | 🔗 Project | 🛠️ Stack | 📝 Description |
 |:-----------|:---------|:---------------|
-| [**Urdu Hate Speech Detection**](https://github.com) | Python · Scikit-learn · NLP · Seaborn | Naive Bayes classifier for Urdu text with N-gram, Regex & TF-IDF vectorization |
-| [**Transformer vs CNN Image Classifier**](https://github.com) | Python · PyTorch · HuggingFace | Comparative study: accuracy, speed & generalization trade-offs across full ML pipeline |
-| [**Fake News Detection**](https://github.com) | Python · Scikit-learn · NLP · Pandas | Benchmarked LR, Naive Bayes & SVM with cross-validation for optimal model selection |
+| [**Urdu Hate Speech Detection**](https://github.com/MuhmmadUmerShehzad) | Python · Scikit-learn · NLP · Seaborn | Naive Bayes classifier for Urdu text with N-gram, Regex & TF-IDF vectorization |
+| [**Transformer vs CNN Image Classifier**](https://github.com/MuhmmadUmerShehzad) | Python · PyTorch · HuggingFace | Comparative study: accuracy, speed & generalization trade-offs across full ML pipeline |
+| [**Fake News Detection**](https://github.com/MuhmmadUmerShehzad) | Python · Scikit-learn · NLP · Pandas | Benchmarked LR, Naive Bayes & SVM with cross-validation for optimal model selection |
 
 ---
 
@@ -158,12 +167,23 @@ const umer = {
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhmmadUmerShehzad&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b" width="80%" />
+<img src="https://streak-stats.demolab.com/?user=MuhmmadUmerShehzad&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b" width="80%" />
 
 </div>
 
 ---
 
+## 🐍 Snake Eating My Contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/MuhmmadUmerShehzad/MuhmmadUmerShehzad/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+> ⚠️ **This only renders once the snake workflow below is set up in your own profile repo** — see the accompanying `snake.yml` file and setup notes.
+
+---
 
 ## 🌌 Shooting Stars
 
@@ -178,6 +198,7 @@ const umer = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhmmadUmerShehzad&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true" width="95%"/>
 
 </div>
+
 ---
 
 ## 💬 Dev Quote of the Day
