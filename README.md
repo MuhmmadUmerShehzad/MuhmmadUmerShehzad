@@ -164,15 +164,6 @@ const umer = {
 
 ---
 
-## 🐍 Snake Eating My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
 
 ## 🌌 Shooting Stars
 
