@@ -171,19 +171,6 @@ Rebuilt GreenAI's public production website end-to-end: a new ASP.NET Core Web A
 
 </div>
 
----
-
-## 🐍 Snake Eating My Contributions
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/MuhmmadUmerShehzad/MuhmmadUmerShehzad/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-> ⚠️ **This only renders once the snake workflow below is set up in your own profile repo** — see the accompanying `snake.yml` file and setup notes.
-
----
 
 ## 🌌 Shooting Stars
 
